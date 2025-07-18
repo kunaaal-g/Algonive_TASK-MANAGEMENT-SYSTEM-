@@ -25,7 +25,7 @@ A **console-based Task Management System** that allows users to add, categorize,
 - View tasks sorted by priority or due date
 
 ## 🧩 Sample Output
-![Image](https://github.com/user-attachments/assets/1660e1b2-e692-4174-aa03-8c2ba3bc1b75)
+![Image](https://github.com/user-attachments/assets/a5a65fe2-ce52-47f5-9005-e3e2b3fe8153)
 
 ## 🛠️ Technologies Used
 - Language: C++
